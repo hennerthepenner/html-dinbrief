@@ -1,0 +1,42 @@
+body {
+  margin: 0mm 10mm 25mm 25mm;
+  font-family: serif;
+  font-size: 11pt;
+  line-height: 4.23mm;
+}
+
+#briefkopf {
+  height: 45mm;
+  overflow: hidden;
+}
+
+#absender {
+  font-size: 80%;
+  height: 5mm;
+  top: 0.8mm;
+}
+
+#anschriftenfeld {
+  width: 85mm;
+  height: 40mm;
+  overflow: hidden;
+}
+
+#bezugszeichenzeile {
+  width: 100%;
+  height: 10mm;
+}
+
+#bezugszeichenzeile #leitwort {
+  font-weight: bold;
+}
+
+#betreff {
+  margin-top: 13.5mm;
+  height: 5mm;
+  font-weight: bold;
+}
+
+#text {
+  margin-top: 10mm;
+}
